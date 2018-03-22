@@ -1,0 +1,42 @@
+$ null
+Start [proc, record, id, real, while, if, int]
+P [proc, record, id, real, while, if, int]
+D [proc, record, real, int]
+S [id, while, if]
+proc null
+id null
+; null
+T [record, real, int]
+X [real, int]
+C [null, []
+record null
+int null
+real null
+[ null
+num null
+] null
+= null
+E [num, (, id, -]
+L [id]
++ null
+* null
+- null
+( null
+) null
+if null
+B [!, num, (, id, -]
+then null
+else null
+while null
+do null
+|| null
+&& null
+! null
+< null
+<= null
+== null
+!= null
+> null
+>= null
+Elist [num, (, id, -]
+, null

@@ -1,0 +1,43 @@
+Start P
+P D
+P S
+S S A0 S
+A0
+D D D
+D proc id ; D S
+D T id ;
+T X D0 C
+D0
+T record D
+X int
+X real
+C [ num ] C
+C
+S id = E ;
+S L = E ;
+E E + E
+E E * E
+E - E
+E ( E )
+E id
+E num
+E L
+L id [ E ]
+L L [ E ]
+S if B then A0 S
+S if B then A0 S N else A0 S
+S while A0 B do A0 S
+B B || A0 B
+B B && A0 B
+B ! B
+B ( B )
+B E < E
+B E <= E
+B E == E
+B E != E
+B E > E
+B E >= E
+S id ( Elist )
+Elist Elist , E
+Elist E
+N
