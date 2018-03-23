@@ -1,0 +1,8 @@
+<resources>
+ 	<color name="color_bg_selected">#e0301e</color>
+    <color name="color_bg_normal">#e7e7e8</color>
+    <color name="black_overlay">#75000000</color>
+	<color name="white">#ffffff</color>
+	<color name="light_blue">#cfe2f3</color>
+	<color name="orange">#F16C4D</color>
+</resources>

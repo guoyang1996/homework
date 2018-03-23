@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+      android:background="#F16C4D"
+    android:orientation="vertical" >
+    <TextView
+            android:layout_width="match_parent"
+        	android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"/>
+    <TextView
+            android:id="@+id/_text_end"
+            android:layout_width="match_parent"
+        	android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:layout_marginTop="8dp"
+            android:textSize="40sp"
+            android:gravity="center"
+            android:text="答题结束" />
+     <TextView
+            android:id="@+id/_text_grade"
+            android:layout_width="match_parent"
+        	android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:layout_marginTop="8dp"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:text="" />
+     <Button
+            android:id="@+id/_btn_end"
+            android:layout_width="match_parent"
+        	android:layout_height="0dp"
+            android:layout_weight="1"
+            android:background="#00000000"
+            android:layout_marginTop="8dp"
+            android:textSize="30sp"
+            android:gravity="center"
+            android:text="返回开始答题" />
+      <TextView
+            android:layout_width="match_parent"
+        	android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"/>
+       <TextView
+            android:layout_width="match_parent"
+        	android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"/>
+
+</LinearLayout>
